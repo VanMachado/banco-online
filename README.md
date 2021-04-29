@@ -1,0 +1,50 @@
+# Desafio - Banco Online
+
+O desafio envolve a implementação de uma API Restful genérica para múltiplos serviços bancários. Dentre os serviços, a API terá:
+
+* Cadastrar cliente juntamente com uma conta bancária
+* Saques
+* Depósitos
+* Transferências
+* Extrato bancário para demonstrar a movimentação financeira da conta
+
+# Observações:
+    
+* Os erros devem ser tratados e enviados como retorno da requisição. 
+  
+* A API deve ser desenvolvida no framework Spring Boot
+  
+* Deve haver testes unitários, suíte de testes bem organizados
+  
+* Deve haver recursos do Java 8.
+  
+* Deve seguir as boas práticas de programação.
+  
+* Deve-se utilizar o git com commits pequenos e bem descritos. 
+
+
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'br.com.study.banco-online' is invalid and this project uses 'br.com.study.bancoonline' instead.
+
+# Getting Started
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.10.RELEASE/maven-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.10.RELEASE/maven-plugin/reference/html/#build-image)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#using-boot-devtools)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.5/reference/htmlsingle/#boot-features-developing-web-applications)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+
