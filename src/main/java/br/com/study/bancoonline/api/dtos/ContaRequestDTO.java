@@ -18,8 +18,8 @@ public class ContaRequestDTO {
 
 	/**
 	 * { "nomeCliente":,"Van Damme", "documento":,"12345678911", "endereco":,"rua
-	 * tal", "dataDeNascimento":,"1992-02-23", "agencia":,"1234",
-	 * "numeroConta":,"12345678", "digito":,"9", "saldo":1000.00 }
+	  tal", "dataDeNascimento":,"1992-02-23", "agencia":,"1234",
+	  "numeroConta":,"12345678", "digito":,"9", "saldo":1000.00 }
 	 */
 
 	@NotEmpty
